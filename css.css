@@ -1,11 +1,7 @@
-.hello_Wolrd {
-    color: red
+.color {
+    color: red;
 }
 
-.world{
-    color: blue
-}
-
-table {
-    background-color: red;
+.secondColor {
+    color: blue;
 }
