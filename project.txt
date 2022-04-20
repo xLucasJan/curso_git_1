@@ -2,5 +2,3 @@ Hello World
 
 How is it going? I hope everything is fine
 
-Adding the A functionality
-Adding the B functionality
